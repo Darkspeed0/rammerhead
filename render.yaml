@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: utopia
-    env: node
-    buildCommand: npm install
-    startCommand: npm start
+    name: interstellar
+    env: docker
+    plan: free
+Footer
