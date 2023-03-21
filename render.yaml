@@ -1,6 +1,6 @@
 services:
   - type: web
     name: interstellar
-    env: docker
+    env: node
     plan: free
 Footer
